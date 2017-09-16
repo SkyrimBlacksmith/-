@@ -1,7 +1,6 @@
 ﻿#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from glob import * 
 from Tkinter import * 
 import os
 
